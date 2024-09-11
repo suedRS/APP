@@ -60,3 +60,7 @@ Acesso a propriedades de objetos
 ## Estrtutura de repetição 
 
 - while
+
+## condicionais
+
+- switch
