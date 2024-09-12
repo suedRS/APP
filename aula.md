@@ -19,37 +19,38 @@ como um lego, você irá ultílizar peças para criar algoritimos, ou seja, para
 
 # Fases da resolução de um problema 
 
-Coletar os dados 
-Processar os dados (manipular, alterar ...)
-Apresentar os dados
+- Coletar os dados 
+- Processar os dados (manipular, alterar ...)
+- Apresentar os dados
 
 ## Escopo e variáveis:
 
-Variáveis globais e locais
-Constantes
+- Variáveis globais e locais
+- Constantes
 
 ## tipos de dados:
 
-Strings(textos): "" '' ``
-number: 2, 1.4 
-Function
+- Strings(textos): "" '' ``
+- number: 2, 1.4 
+- Function
 
 ## Operadores
 
-Operadores de atribuição de valor =
-Operador de contatenção +
-
+- Operadores de atribuição de valor: =
+- Operador de contatenção: +
+- Operadores de comparação: == != <= >= < >
+ 
 ## Estrutura de dados 
 
 ## arrays:
 
-Uma lista que contém qualque tipo de dado 
+- Uma lista que contém qualque tipo de dado 
 
 ## Objetos:
 
-Atributos e métodos 
-Criação e manipulação de objetos 
-Acesso a propriedades de objetos
+- Atributos e métodos 
+- Criação e manipulação de objetos 
+- Acesso a propriedades de objetos
 
 ## Functions 
 
@@ -64,6 +65,7 @@ Acesso a propriedades de objetos
 ## condicionais
 
 - switch
+- if/else
 
 ## modulos em Node.js:
 
@@ -72,4 +74,4 @@ Acesso a propriedades de objetos
 
 ## Programação assíncrona e Promises:
 
-uso de funções assíncronas (async/await)
+- uso de funções assíncronas (async/await)
